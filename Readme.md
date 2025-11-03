@@ -15,7 +15,7 @@ Aplikasi ini cocok untuk latihan membuat multi-activity flow, ListView, dan peng
 
 📱 Fitur
 MainActivity – Halaman awal dengan tombol Start.
-<img width="371" height="780" alt="image" src="https://github.com/user-attachments/assets/f34ae1c3-dd40-4b6d-9701-b13647509075" />
+<img width="300" height="780" alt="image" src="https://github.com/user-attachments/assets/f34ae1c3-dd40-4b6d-9701-b13647509075" />
 
 LoginActivity – Login menggunakan username & password.
 <img width="370" height="785" alt="image" src="https://github.com/user-attachments/assets/a422643d-7721-4aa9-93c5-9a1fb71de421" />
